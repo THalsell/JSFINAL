@@ -9,5 +9,3 @@ function ageToAbilites(age) {
         return "You can do pretty much anything."
     }
 }
-
-console.log(ageToAbilites(18))
